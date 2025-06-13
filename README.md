@@ -20,7 +20,7 @@ Data Analyst Certification, 2024 – 2025
 - Collaborated with cross-functional teams; strengthened problem-solving & communication skills  
 ---
 
-## 🛠 Tools & Tech Stack
+
 ## 🛠 Tools & Tech Stack
 
 <img src="https://img.shields.io/badge/SQL-005CDB?style=flat&logo=mysql&logoColor=white" alt="SQL" height="32" />  
