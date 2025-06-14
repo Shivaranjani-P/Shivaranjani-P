@@ -49,7 +49,8 @@ Data Analyst Certification, 2024 – 2025
 
 ## 🏆 Certifications
 
-- Google Data Analytics Professional Certificate  
+- Google Data Analytics Professional Certificate
+- Deloitte Australia - Data Analytics Job Simulation
 - Advanced Excel (NIIT)  
 - Beyond Business Communication (TIME)  
 - Digital Marketing (Synergy)  
